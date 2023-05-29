@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IurieChi
+- 👋 Hi, I’m @Iurie
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Python programing
 - 💞️ I’m looking to collaborate on IT like a programer
