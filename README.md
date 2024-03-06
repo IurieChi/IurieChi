@@ -8,8 +8,9 @@
 <p 
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
 - Can connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-chigai/)
+ </p>
  <a href='https://www.linkedin.com/in/iurie-chigai/' targe"="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana stroescu" height="30" width="40" /></a>
-</p>
+
 <h4 align="left">Languages and Tools:</h4>
 <p
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
