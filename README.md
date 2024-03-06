@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with nice projects
 - 💻 I'm actively pursuing internships with Python to apply and enhance my skills.
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
-- Can connect with me on [LinkedIn][https://www.linkedin.com/in/iurie-chigai/] 
+- Can connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-chigai/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p 
