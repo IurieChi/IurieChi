@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Iurie
-- 👀 I’m interested in Python 
+- 👀 I’m interested in Python
+- 📚 I'm a quick learner who eagerly embraces new challenges.
 - 💞️ I’m looking to collaborate with nice projects
-- I'm actively pursuing internships in software testing to apply and enhance my skills.
+- 💻 I'm actively pursuing internships with Python to apply and enhance my skills.
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
 - Can connect with me on [LinkedIn][https://www.linkedin.com/in/iurie-chigai/] 
 
