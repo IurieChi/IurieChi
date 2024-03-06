@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with nice projects
 - 💻 I'm actively pursuing internships with Python to apply and enhance my skills.
 
-<h4 align="left">Connect with me:</h4>
+<h4> Connect with me:</h4>
 <p 
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
 - Can connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-chigai/)
