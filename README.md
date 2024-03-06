@@ -9,7 +9,7 @@
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
 - Can connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-chigai/)
  </p>
- <a href='https://www.linkedin.com/in/iurie-chigai/' targe"="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diana stroescu" height="30" width="40" /></a>
+
 
 <h4 align="left">Languages and Tools:</h4>
 <p
