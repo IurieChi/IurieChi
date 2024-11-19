@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Iurie
-- 👀 I’m interested in Python
+- 👋 Hi, my name is @Iurie
+- 👀 I  have a strong interest in IT and Python Development 
 - 📚 I'm a quick learner who eagerly embraces new challenges.
 - 💞️ I’m looking to collaborate with nice projects
 - 💻 I'm actively pursuing internships with Python to apply and enhance my skills.
