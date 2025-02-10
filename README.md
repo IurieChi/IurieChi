@@ -14,6 +14,7 @@
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/</a> 
   <a href="https://iuriechi.github.io/resume/" target="_blank" rel="noreferrer"> <img src= "https://www.angleritech.com/wp-content/uploads/2011/07/html5-css3.jpg" alt = "HTML & CSS"  width="40" height="40"/></a>
+  <a href="https://iuriechi.github.io/resume/" target="_blank" rel="noreferrer"> <img src= "https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt = "HTML & CSS"  width="40" height="40"/></a>
 </p>
 
 <!---
