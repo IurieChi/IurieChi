@@ -1,8 +1,7 @@
 - 👋 Hi, my name is @Iurie
-- 👀 I  have a strong interest in IT and Python Development 
+- 👀 I  have a strong interest in IT and Python Development Automation Testing with Python.
 - 📚 I'm a quick learner who eagerly embraces new challenges.
-- 💞️ I’m looking to collaborate with nice projects
-- 💻 I'm actively pursuing internships with Python to apply and enhance my skills.
+- 💻 I'm actively seeking opportunities with Python to apply and enhance my skills.
 
 - 📫 You can reach me by sending a [Email](https://iuriechi.github.io/resume/contact.html)
 - Can connect with me on [LinkedIn](https://www.linkedin.com/in/iurie-chigai/)
